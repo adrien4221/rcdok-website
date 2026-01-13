@@ -18,3 +18,9 @@ last_modified_at: 2026-01-13-01
 
 pwa:
   enabled: false
+
+# Command to show the tabs
+collections:
+  tabs:
+    output: true
+    sort_by: order
