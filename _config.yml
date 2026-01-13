@@ -15,3 +15,10 @@ theme: jekyll-theme-chirpy
 # This tells the theme to use the folder name for all links
 path_type: relative
 last_modified_at: 2026-01-13-01
+
+# Command to show the tabs
+collections:
+  tabs:
+    output: true
+    sort_by: order
+

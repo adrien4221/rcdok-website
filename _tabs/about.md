@@ -2,6 +2,7 @@
 layout: page
 title: About
 icon: fas fa-info-circle
+nav: true
 order: 2
 ---
 
