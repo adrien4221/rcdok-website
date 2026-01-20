@@ -2,7 +2,7 @@
 layout: page
 title: Member Schools
 icon: fas fa-school
-order: 3
+order: 5
 ---
 
 ## Kalookan Diocesan Schools Association (KADSA)
@@ -71,4 +71,5 @@ order: 3
 **St. Mary’s Academy of Caloocan City (SMACC)**
 * **Address:** 12th Avenue, Grace Park, Caloocan City
 * **Telephone:** 8363-24-25 / 8363-25-25
+
 * **Directress:** Sr. Maria Evelyn C. Aguilar, RVM
