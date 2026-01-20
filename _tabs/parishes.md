@@ -3,7 +3,7 @@ layout: page
 title: Parishes
 icon: fas fa-church
 nav: true
-order: 3
+order: 4
 ---
 
 ## San Ildefonso Parish
