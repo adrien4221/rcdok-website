@@ -8,7 +8,6 @@ baseurl: "/rcdok-website"
 
 author:
   name: RCDOK
-  avatar: "https://dioceseofkalookan.ph/wp-content/uploads/2019/04/Coat-of-Arms-of-Diocese-of-Kalookan-png_small_favicon.png"
   facebook: rcdok
 
 theme: jekyll-theme-chirpy
