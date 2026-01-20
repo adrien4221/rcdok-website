@@ -2,7 +2,7 @@
 title: Contact
 icon: fas fa-envelope
 nav: true
-order: 14
+order: 13
 ---
 
 ## Roman Catholic Diocese of Kalookan
