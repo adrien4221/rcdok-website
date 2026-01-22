@@ -1,5 +1,6 @@
 ---
 title: Contact
+layout: page
 icon: fas fa-envelope
 nav: true
 order: 13
