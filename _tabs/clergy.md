@@ -264,8 +264,8 @@ Vicariate of Sacred Heart of Jesus, Vicariate of San <br> Bartolome, Vicariate o
 
 #### Fr. Wilfredo Samson, SJ
 * **Position:** Chaplain
-* **Parish:** Our Lady of the Sacred Heart Mission Station
-* **Address:** 114 A Pineda Compound St, Caloocan, Metro Manila
+* **Parish:** Sacred Heart Kaunlaran Mission Station
+* **Address:** Brgy. 12, Kaunlaran Village, Dagat-dagatan Avenue, Caloocan, Philippines
 
 #### Fr. James B. Ty, IVE
 * **Position:** Parish Priest

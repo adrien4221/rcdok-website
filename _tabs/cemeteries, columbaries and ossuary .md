@@ -64,6 +64,8 @@ Rev. Fr. Gaudioso A. Sustento
 
 
 ## San Jose Catholic Cemetery
+
+---
 * **Address:** Los Martirez St., Navotas City
 * **Telephone:** (02) 282 9126
 
